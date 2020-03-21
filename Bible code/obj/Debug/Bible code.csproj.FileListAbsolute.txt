@@ -1,0 +1,6 @@
+D:\Program\MyProdukt\C#-Demo\Bible code\Bible code\obj\Debug\Bible code.csproj.CoreCompileInputs.cache
+D:\Program\MyProdukt\C#-Demo\Bible code\Bible code\bin\Debug\Bible code.exe.config
+D:\Program\MyProdukt\C#-Demo\Bible code\Bible code\bin\Debug\Bible code.exe
+D:\Program\MyProdukt\C#-Demo\Bible code\Bible code\bin\Debug\Bible code.pdb
+D:\Program\MyProdukt\C#-Demo\Bible code\Bible code\obj\Debug\Bible code.exe
+D:\Program\MyProdukt\C#-Demo\Bible code\Bible code\obj\Debug\Bible code.pdb
